@@ -1,0 +1,9 @@
+D:\Projects\WarShips\WarShips\bin\Debug\WarShips.exe
+D:\Projects\WarShips\WarShips\bin\Debug\WarShips.pdb
+D:\Projects\WarShips\WarShips\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\WarShips\WarShips\obj\x86\Debug\WarShips.Form1.resources
+D:\Projects\WarShips\WarShips\obj\x86\Debug\WarShips.Properties.Resources.resources
+D:\Projects\WarShips\WarShips\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\WarShips\WarShips\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\WarShips\WarShips\obj\x86\Debug\WarShips.exe
+D:\Projects\WarShips\WarShips\obj\x86\Debug\WarShips.pdb

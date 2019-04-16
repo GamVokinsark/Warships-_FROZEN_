@@ -1,0 +1,11 @@
+D:\Projects\WarShips\WarShips\bin\Release\WarShips.exe
+D:\Projects\WarShips\WarShips\bin\Release\WarShips.pdb
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.Form1.resources
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.Properties.Resources.resources
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.exe
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.pdb
+D:\Projects\WarShips\WarShips\bin\Release\WarShips.exe.config
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.options.resources
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.SetUpShips.resources
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.csprojResolveAssemblyReference.cache
+D:\Projects\WarShips\WarShips\obj\x86\Release\WarShips.csproj.GenerateResource.Cache
